@@ -1,0 +1,12 @@
+table,th,tr,td {
+    border: dotted;
+    border-width: 1px;
+    border-collapse: collapse;
+    color: black;
+    padding: 5px;
+}
+
+p.task2 {
+     font-weight: bold;
+
+    
