@@ -1,0 +1,16 @@
+.four,.five,.six {
+    width: 30%;
+}
+
+.four {
+    color: orange;
+}
+
+
+.five {
+    font-weight: bold ;
+}
+
+.six {
+    background-image: url(../Resources/1.webp);
+}
