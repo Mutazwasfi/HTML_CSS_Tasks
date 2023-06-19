@@ -36,3 +36,22 @@
     background-color: green;
 }
 
+.seven {
+    color: blue;
+}
+
+.eight {
+    background-color: blue;
+
+}
+
+.list2 {
+    color: blue;
+    list-style-type: circle;
+}
+
+.list3 {
+    color: green;
+    list-style-type: none;
+}
+
