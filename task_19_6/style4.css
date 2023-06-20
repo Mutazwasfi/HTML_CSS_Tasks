@@ -5,16 +5,13 @@
     color: black;
 }
 
-p {
-    width: 40%;
-}
 
-}
+
 .anchor {
     position: relative;
 }
-img{
-    position: fixed;
+ img{
+    position: absolute;
     top: 45px;
-    left: 300px;
-}
+    right:0;
+   
