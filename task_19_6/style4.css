@@ -14,7 +14,7 @@ p {
     position: relative;
 }
 img{
-    position: absolute;
+    position: fixed;
     top: 45px;
-    left: 400px;
+    left: 300px;
 }
