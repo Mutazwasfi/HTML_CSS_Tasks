@@ -50,3 +50,44 @@ border: 2px solid green;
     background-color: #ccc;
 }
 
+.container2 {
+
+    display: flex;
+    background-color: black;
+    box-sizing: border-box;
+    width: 40%;
+    height: 80px;
+ }
+
+.container2 * {
+    width: 40%;
+    height: 80px;
+    color: white;
+    text-align: center;
+    padding: 20%;
+}
+
+.item21 {
+    background-color: green;
+
+}
+
+.item22 {
+    background-color: blue;
+
+}
+
+.container3 {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+}
+
+ .item31 {
+    width: 300px;
+    height: 200px;
+    background-image: url(../Resources/Luxury-Gift-Basket.jpg);
+    background-size: 300px 200px;
+
+}
